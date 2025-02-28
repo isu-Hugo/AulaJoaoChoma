@@ -1,3 +1,6 @@
 # AulaJoaoChoma
 
-Aula de git hub
+Instalar o github desktop
+fetch
+
+enviar as modificações via push
